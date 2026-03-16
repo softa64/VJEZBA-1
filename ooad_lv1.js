@@ -16,5 +16,5 @@ console.log("Rezultat sabiranja:", rezultat);
 
 //Bilal Đozo izmjena
 =======
-console.log("Rezultat sabiranja:", rezultat); // dobar komentar drama
+console.log("Rezultat sabiranja:", rezultat); // dobar komentar dramaaa
 >>>>>>> 87c6d1d1a8affac9fb10ce9bac62cf8e4c8dddd7
