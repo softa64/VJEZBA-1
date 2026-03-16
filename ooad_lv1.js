@@ -1,4 +1,4 @@
-function saberi(a, b) {
+﻿function saberi(a, b) {
     return a + b;
 }
 
@@ -10,3 +10,6 @@ let rezultat = saberi(broj1, broj2);
 console.log("Prvi broj:", broj1);
 console.log("Drugi broj:", broj2);
 console.log("Rezultat sabiranja:", rezultat);
+
+
+//Bilal Đozo izmjena
